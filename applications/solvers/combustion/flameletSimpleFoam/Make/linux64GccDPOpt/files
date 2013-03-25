@@ -1,7 +1,0 @@
-# 1 "files"
-# 1 "<eingebaut>"
-# 1 "<Kommandozeile>"
-# 1 "files"
-flameletSimpleFoam.C
-
-EXE = $(FOAM_USER_APPBIN)/flameletSimpleFoam
