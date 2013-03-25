@@ -1,4 +1,0 @@
-DEPENDENCIES = \
-src/OpenSMOKE_laminar_NonAdiabaticFlamelet_Library.dep\
-src/OpenSMOKE_laminar_Flamelet_Library.dep\
-src/OpenSMOKE_laminar_Flamelet.dep

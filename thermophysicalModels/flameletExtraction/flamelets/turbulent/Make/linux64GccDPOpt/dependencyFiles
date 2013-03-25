@@ -1,4 +1,0 @@
-DEPENDENCIES = \
-src/OpenSMOKE_PDF_NonAdiabaticFlamelet_Library.dep\
-src/OpenSMOKE_PDF_Flamelet_Library.dep\
-src/OpenSMOKE_PDF_Flamelet.dep

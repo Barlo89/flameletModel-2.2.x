@@ -1,7 +1,0 @@
-$(OBJECTS_DIR)/OpenSMOKE_laminar_Flamelet.o: src/OpenSMOKE_laminar_Flamelet.dep
-src/OpenSMOKE_laminar_Flamelet.dep: src/OpenSMOKE_laminar_Flamelet.cpp
-src/OpenSMOKE_laminar_Flamelet.dep: src/OpenSMOKE_laminar_Flamelet.hpp
-$(OBJECTS_DIR)/OpenSMOKE_laminar_Flamelet.o: $(EXE_DEP)
-$(OBJECTS_DIR)/OpenSMOKE_laminar_Flamelet.o:
-	@SOURCE_DIR=src
-	SOURCE=src/OpenSMOKE_laminar_Flamelet.cpp ; $(cpptoo)

@@ -1,4 +1,0 @@
-OBJECTS = \
-$(OBJECTS_DIR)/OpenSMOKE_laminar_NonAdiabaticFlamelet_Library.o\
-$(OBJECTS_DIR)/OpenSMOKE_laminar_Flamelet_Library.o\
-$(OBJECTS_DIR)/OpenSMOKE_laminar_Flamelet.o

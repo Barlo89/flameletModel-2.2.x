@@ -1,3 +1,0 @@
-include src/OpenSMOKE_laminar_NonAdiabaticFlamelet_Library.dep
-include src/OpenSMOKE_laminar_Flamelet_Library.dep
-include src/OpenSMOKE_laminar_Flamelet.dep
