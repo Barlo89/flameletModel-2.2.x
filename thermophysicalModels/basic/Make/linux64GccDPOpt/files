@@ -1,8 +1,0 @@
-# 1 "files"
-# 1 "<eingebaut>"
-# 1 "<Kommandozeile>"
-# 1 "files"
-flameletThermo/flameletThermo.C
-flameletThermo/flameletThermos.C
-
-LIB = $(FOAM_USER_LIBBIN)/libflameletThermophysicalModels

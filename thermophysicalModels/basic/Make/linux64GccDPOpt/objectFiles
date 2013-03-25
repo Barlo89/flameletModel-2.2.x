@@ -1,3 +1,0 @@
-OBJECTS = \
-$(OBJECTS_DIR)/flameletThermo.o\
-$(OBJECTS_DIR)/flameletThermos.o
