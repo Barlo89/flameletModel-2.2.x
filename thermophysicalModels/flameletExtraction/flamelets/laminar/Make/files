@@ -1,0 +1,6 @@
+src/OpenSMOKE_laminar_NonAdiabaticFlamelet_Library.cpp
+src/OpenSMOKE_laminar_Flamelet_Library.cpp
+src/OpenSMOKE_laminar_Flamelet.cpp
+
+LIB = $(FOAM_USER_LIBBIN)/libOpenSMOKE_laminar_flamelets
+

@@ -1,0 +1,10 @@
+# 1 "files"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "files"
+src/OpenSMOKE_laminar_NonAdiabaticFlamelet_Library.cpp
+src/OpenSMOKE_laminar_Flamelet_Library.cpp
+src/OpenSMOKE_laminar_Flamelet.cpp
+
+LIB = $(FOAM_USER_LIBBIN)/libOpenSMOKE_laminar_flamelets
+

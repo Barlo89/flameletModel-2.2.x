@@ -1,0 +1,3 @@
+include src/OpenSMOKE_PDF_NonAdiabaticFlamelet_Library.dep
+include src/OpenSMOKE_PDF_Flamelet_Library.dep
+include src/OpenSMOKE_PDF_Flamelet.dep

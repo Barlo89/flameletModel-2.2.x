@@ -1,0 +1,4 @@
+LOCAL_OBJECTS = \
+OpenSMOKE_laminar_NonAdiabaticFlamelet_Library.o\
+OpenSMOKE_laminar_Flamelet_Library.o\
+OpenSMOKE_laminar_Flamelet.o
