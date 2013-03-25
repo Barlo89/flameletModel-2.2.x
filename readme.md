@@ -13,21 +13,20 @@ A discussion can be followed here: http://www.cfd-online.com/Forums/openfoam-pro
 
 Go into your $FOAM_RUN folder:
 
-<code>
-cd $FOAM_RUN
-cd ../
-git clone https://github.com/shor-ty/flameletModel-2.2.x.git
-cd flameletModel-2.2.x/thermophysicalModels/flameletExtraction/common
-wmake libso
-cd ../flamelets/turbulent/
-wmake libso
-cd ../../../basic/
-wmake libso
-cd ../../applications/solvers/combustion/flamletSimpleFoam
-wmake
-cd ../../../../
-cp -r tutorials $FOAM_RUN/flameletTutorials
-</code>
+<code>cd $FOAM_RUN</code>
+<code>cd ../</code>
+<code>git clone https://github.com/shor-ty/flameletModel-2.2.x.git</code>
+<code>cd flameletModel-2.2.x/thermophysicalModels/flameletExtraction/common</code>
+<code>wmake libso</code>
+<code>cd ../flamelets/turbulent/</code>
+<code>wmake libso</code>
+<code>cd ../../../basic/</code>
+<code>wmake libso</code>
+<code>cd ../../applications/solvers/combustion/flamletSimpleFoam</code>
+<code>wmake</code>
+<code>cd ../../../../</code>
+<code>cp -r tutorials $FOAM_RUN/flameletTutorials</code>
+
 
 ## Changes | Features | Documentation
 + Have a look into the documentation folder
