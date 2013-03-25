@@ -13,6 +13,7 @@ A discussion can be followed here: http://www.cfd-online.com/Forums/openfoam-pro
 
 Go into your $FOAM_RUN folder:
 
+<code>
 cd $FOAM_RUN
 cd ../
 git clone https://github.com/shor-ty/flameletModel-2.2.x.git
@@ -26,7 +27,7 @@ cd ../../applications/solvers/combustion/flamletSimpleFoam
 wmake
 cd ../../../../
 cp -r tutorials $FOAM_RUN/flameletTutorials
-
+</code>
 
 ## Changes | Features | Documentation
 + Have a look into the documentation folder
