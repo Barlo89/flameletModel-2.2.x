@@ -4,6 +4,13 @@
 	//- Equation from libOpenSmoke
 
 	rho = thermo.rho();
+	rho = max(rho, rhoMin);
+	rho = min(rho, rhoMax);
+
+	if (pimple.nCorrPISO() <= 1)
+	{
+	    UEqn.clear();
+	}
 
 	volScalarField AU = UEqn().A();
 	U = UEqn().H()/AU;
